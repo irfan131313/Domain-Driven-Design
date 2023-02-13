@@ -1,0 +1,17 @@
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\bin\Debug\net6.0\Movie.Application.deps.json
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\bin\Debug\net6.0\Movie.Application.runtimeconfig.json
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\bin\Debug\net6.0\Movie.Application.dll
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\bin\Debug\net6.0\Movie.Application.pdb
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\bin\Debug\net6.0\Movie.Domain.dll
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\bin\Debug\net6.0\Movie.Domain.pdb
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\obj\Debug\net6.0\Movie.Application.csproj.AssemblyReference.cache
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\obj\Debug\net6.0\Movie.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\obj\Debug\net6.0\Movie.Application.AssemblyInfoInputs.cache
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\obj\Debug\net6.0\Movie.Application.AssemblyInfo.cs
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\obj\Debug\net6.0\Movie.Application.csproj.CoreCompileInputs.cache
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\obj\Debug\net6.0\Movie.Application.csproj.CopyComplete
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\obj\Debug\net6.0\Movie.Application.dll
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\obj\Debug\net6.0\refint\Movie.Application.dll
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\obj\Debug\net6.0\Movie.Application.pdb
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\obj\Debug\net6.0\Movie.Application.genruntimeconfig.cache
+C:\Users\irfan\Desktop\proje\Movie\Movie.Application\obj\Debug\net6.0\ref\Movie.Application.dll
